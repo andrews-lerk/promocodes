@@ -1,4 +1,8 @@
 # Generate promocodes 
+### Description
+This application generate promo codes for a specific groups, and save it to json file.
+
+All methots for generate codes and dump it to json you can view in **utils.py** file in directory **main**  
 ### Installing
 - Update pip and install virtual enviroment
 ```
